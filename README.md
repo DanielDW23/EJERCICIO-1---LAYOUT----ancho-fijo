@@ -1,6 +1,6 @@
 # EJERCICIO-1---LAYOUT----ancho-fijo
 
-## Ejercicio prácticando hacer un layaout
+## Ejercicio prácticando hacer un layout
 
 <p align="center" >
  
